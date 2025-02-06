@@ -1,5 +1,5 @@
 # Computer Science Student
-
+![](assets/portfolio img.jpg)
 ### Education
 H.Bsc., Computer Science | Wilfrid Laurier University (_June 2026_)
 
