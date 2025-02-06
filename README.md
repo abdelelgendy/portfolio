@@ -1,7 +1,7 @@
 # Computer Science Student
 
 ### Education
-H.Bsc., Computer Science | Wilfrid Laurier University (_June 2026_)
+H.Bsc, Computer Science | Wilfrid Laurier University (_June 2026_)
 
 ### Technical Skills
 Languages: Python, Java, C/C++, C#, SQL, JavaScript, HTML/CSS
