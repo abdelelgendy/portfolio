@@ -1,10 +1,9 @@
 # Computer Science Student
 
-![Profile Picture](assets/portfolio img.jpg) 
-
 ### Education
 - **Honours Bachelor of Science (H.Bsc.), Computer Science** | Wilfrid Laurier University (_Expected June 2026_)
   - Relevant Courses: Data Structures, Algorithms, Operating Systems, Artificial Intelligence
+
 ### Technical Skills
 - **Languages**: Python, Java, C/C++, C#, SQL, JavaScript, HTML/CSS
 - **Frameworks**: MySQL, Oracle, Adobe, Unity, Django, Spring Boot, Flask, Pandas
