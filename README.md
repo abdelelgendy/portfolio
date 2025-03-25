@@ -1,4 +1,5 @@
 # Computer Science Student
+<img src="assets/portfolio-pic.jpg" alt="Abdelrahman Elgendy" style="width: 150px; display: block; margin: 0 auto;" />
 
 ### Education
 - **Honours Bachelor of Science (H.Bsc.), Computer Science** | Wilfrid Laurier University (_Expected June 2026_)
