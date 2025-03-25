@@ -1,5 +1,5 @@
 # Computer Science Student
-
+![Profile Picture](assets/portfolio-pic.jpg)
 ### Education
 - **Honours Bachelor of Science (H.Bsc.), Computer Science** | Wilfrid Laurier University (_Expected June 2026_)
   - Data Structures, Algorithms, Operating Systems, Artificial Intelligence
