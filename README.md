@@ -1,3 +1,4 @@
+
 # Computer Science Student
 ### Education
 - **Honours Bachelor of Science (H.Bsc.), Computer Science** | Wilfrid Laurier University (_Expected June 2026_)
